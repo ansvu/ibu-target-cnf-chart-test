@@ -1,0 +1,21 @@
+apiVersion: v1
+entries:
+  ibu-target-cnf:
+  - annotations:
+      charts.openshift.io/archs: x86_64
+      charts.openshift.io/name: RedHat Test
+      charts.openshift.io/provider: RedHat
+      charts.openshift.io/supportURL: https://github.com/ansvu/ibu-target-cnf-chart-test
+    apiVersion: v2
+    appVersion: 1-22
+    created: "2024-04-16T12:56:27.024706806-05:00"
+    description: A Helm chart for Kubernetes
+    digest: 865bb9a5c749e099a78873cca9d3ccbd3531a8606d51f6ddae2fa83752e11c55
+    icon: https://www.example.com/chart-icon.png
+    kubeVersion: '>=1.20.0'
+    name: ibu-target-cnf
+    type: application
+    urls:
+    - https://ansvu.github.io/ibu-target-cnf-chart-test/ibu-target-cnf-0.1.6.tgz
+    version: 0.1.6
+generated: "2024-04-16T12:56:27.023554084-05:00"

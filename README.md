@@ -1,2 +1,2 @@
-# ibu-target-cnf-chart-test
-This repo will be used to host the IBU target CNF chart
+# yingoneshotchart
+This helmchart is used only for oneshot automation
